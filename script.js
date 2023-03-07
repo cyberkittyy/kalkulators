@@ -1,5 +1,6 @@
-let diena"otrdiena";
+const input1 = document.querySelector('.js-teksts');
+const plusButton = document.querySelector('.js-plus')
 
-const vards"kitija";
 
-console.log(...data; diena); void
+console.log(input1);
+console.log(plusButton)
